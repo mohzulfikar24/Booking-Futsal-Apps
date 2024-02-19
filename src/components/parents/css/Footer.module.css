@@ -1,0 +1,23 @@
+.containerFooter {
+  background-color: #ffb73f;
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.listFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Tilt Neon';
+  align-items: center;
+  width: 100%;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  font-size: 14px;
+  color: white;
+  padding: 0 60px;
+}
